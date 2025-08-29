@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo/a/e! 👋
 
 - 🔭 Estudante de Física na Universidade Federal de Minas Gerais (UFMG)
-- 💼 Bolsista de IC Observatório Nacional na área de Astropartículas (Matéria Escura)
+- 💼 Bolsista de IC no Observatório Nacional, na área de Astropartículas (Matéria Escura)
 - 💻 Interesse em Cosmologia, Astrofísica, Física de Partículas e Computação
 - 🏅 Ex-olímpico de Astronomia e Astrofísica
 - 🪐 Curiosidade: Fui voluntário na 17a Olimpíada Internacional de Astronomia e Astrofísica
