@@ -2,9 +2,9 @@
 
 - 🔭 Estudante de Física na Universidade Federal de Minas Gerais (UFMG)
 - 💼 Bolsista de IC no Observatório Nacional, na área de Astropartículas (Matéria Escura)
+- 📝 Trabalho atual: A distribuição de matéria escura e sua conexão com os observáveis
 - 💻 Interesse em Cosmologia, Astrofísica, Física de Partículas e Computação
-- 🏅 Ex-olímpico de Astronomia e Astrofísica
-- 🪐 Curiosidade: Fui voluntário na 17a Olimpíada Internacional de Astronomia e Astrofísica
+- 🪐 Curiosidade: Sou ex-olímpico e fui voluntário na 17a Olimpíada Internacional de Astronomia e Astrofísica
 
 ### <p>➬ "<em>We began as wanderers, and we are wanderers still.<em>" - Carl Sagan</p> 
 
